@@ -29,9 +29,3 @@ will raise an exception.
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
-
-.. cpp:type:: std::vector<int> CustomList
-
-   A typedef-like declaration of a type.
-
-Cross reference to :cpp:type:`CustomList`.
