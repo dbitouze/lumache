@@ -11,7 +11,9 @@ Check out the :doc:`usage` section for further information, including how to
 
 .. note::
 
-   This project is under active development. Test. Test. Test.
+   This project is under active development. 
+
+Foo bar.
 
 Contents
 --------
